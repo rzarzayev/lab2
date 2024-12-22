@@ -1,0 +1,4 @@
+http://malicious-site.com/page1 404
+http://example.com/page2 200
+http://blacklisteddomain.com/page3 404
+http://malicious-site.com/login 404
